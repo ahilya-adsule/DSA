@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ahilya-adsule/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
