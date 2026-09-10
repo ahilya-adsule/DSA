@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
 ## Math
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
