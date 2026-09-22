@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ahilya-adsule/DSA/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
