@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/ahilya-adsule/DSA/tree/master/0605-can-place-flowers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Euclidean Algorithm
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ahilya-adsule/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
