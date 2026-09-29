@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ahilya-adsule/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ahilya-adsule/DSA/tree/master/0605-can-place-flowers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Euclidean Algorithm
