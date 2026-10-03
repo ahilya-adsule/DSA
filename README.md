@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ahilya-adsule/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ahilya-adsule/DSA/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahilya-adsule/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ahilya-adsule/DSA/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahilya-adsule/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ahilya-adsule/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
