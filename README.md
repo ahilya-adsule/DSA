@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ahilya-adsule/DSA/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahilya-adsule/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ahilya-adsule/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahilya-adsule/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ahilya-adsule/DSA/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ahilya-adsule/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -91,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
