@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ahilya-adsule/DSA/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/ahilya-adsule/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ahilya-adsule/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ahilya-adsule/DSA/tree/master/0367-valid-perfect-square) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
+| [0168-excel-sheet-column-title](https://github.com/ahilya-adsule/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ahilya-adsule/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ahilya-adsule/DSA/tree/master/0412-fizz-buzz) |
