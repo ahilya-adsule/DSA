@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ahilya-adsule/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ahilya-adsule/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ahilya-adsule/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ahilya-adsule/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ahilya-adsule/DSA/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
