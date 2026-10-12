@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ahilya-adsule/DSA/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ahilya-adsule/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahilya-adsule/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ahilya-adsule/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Euclidean Algorithm
 |  |
@@ -117,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
