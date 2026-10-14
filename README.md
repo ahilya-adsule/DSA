@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ahilya-adsule/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ahilya-adsule/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahilya-adsule/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ahilya-adsule/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
