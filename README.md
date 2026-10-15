@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahilya-adsule/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2652-sum-multiples](https://github.com/ahilya-adsule/DSA/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahilya-adsule/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
