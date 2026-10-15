@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ahilya-adsule/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahilya-adsule/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1672-richest-customer-wealth](https://github.com/ahilya-adsule/DSA/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ahilya-adsule/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ahilya-adsule/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
