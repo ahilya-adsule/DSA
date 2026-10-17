@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahilya-adsule/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahilya-adsule/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ahilya-adsule/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ahilya-adsule/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ahilya-adsule/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ahilya-adsule/DSA/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ahilya-adsule/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahilya-adsule/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ahilya-adsule/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ahilya-adsule/DSA/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ahilya-adsule/DSA/tree/master/2974-minimum-number-game) |
