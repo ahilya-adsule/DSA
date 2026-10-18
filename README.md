@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ahilya-adsule/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ahilya-adsule/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ahilya-adsule/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ahilya-adsule/DSA/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ahilya-adsule/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ahilya-adsule/DSA/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/ahilya-adsule/DSA/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ahilya-adsule/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ahilya-adsule/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahilya-adsule/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1672-richest-customer-wealth](https://github.com/ahilya-adsule/DSA/tree/master/1672-richest-customer-wealth) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ahilya-adsule/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ahilya-adsule/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ahilya-adsule/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahilya-adsule/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
