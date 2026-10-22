@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahilya-adsule/DSA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/ahilya-adsule/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ahilya-adsule/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahilya-adsule/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahilya-adsule/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ahilya-adsule/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ahilya-adsule/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahilya-adsule/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/ahilya-adsule/DSA/tree/master/0078-subsets) |
