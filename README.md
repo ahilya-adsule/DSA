@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ahilya-adsule/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahilya-adsule/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ahilya-adsule/DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/ahilya-adsule/DSA/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahilya-adsule/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1550-three-consecutive-odds](https://github.com/ahilya-adsule/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/ahilya-adsule/DSA/tree/master/1672-richest-customer-wealth) |
